@@ -8,3 +8,10 @@ module.exports.meme = async function meme() {
   return meme;
 }
 
+//SCREENSHOT 
+
+module.exports.screenshot = async function screenshot(url) {
+  if(!url) throw new Error("Url Is Not Provided!")
+  let ss = `${baseURL}/screenshot?url=${encodeURIComponent(url)}`
+  return ss;
+}
