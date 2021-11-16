@@ -1,0 +1,28 @@
+{
+  "name": "discube-wrapper",
+  "version": "1.0.0",
+  "description": "Discube Wrapper npm",
+  "main": "index.js",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pratik12350/discube-wrapper.git"
+  },
+  "keywords": [
+    "api",
+    "discube",
+    "WrapperWrapper"
+  ],
+  "author": "pratikdev69",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pratik12350/discube-wrapper/issues"
+  },
+  "homepage": "https://github.com/pratik12350/discube-wrapper#readme"
+}
