@@ -3,7 +3,7 @@ const baseURL = "https://discube.gq"
 
 //MEME
 
-module.exports = async function meme() {
+module.exports.meme = async function meme() {
   let meme = `${baseURL}/meme`;
   return meme;
 }
