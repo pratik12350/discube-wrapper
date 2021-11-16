@@ -22,6 +22,8 @@ npm i discube-wrapper
 
 NOTE: ALL ARE ASYNC/AWAIT FUNCTION
 
+<a href="https://github.com/pratik12350/discube-wrapper/tree/main/examples"> Examples </a>
+
 Endpoints:
 
 ```
