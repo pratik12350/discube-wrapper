@@ -1,11 +1,10 @@
 {
   "name": "discube-wrapper",
-  "version": "2.1.6",
-  "description": "Discube Wrapper npm",
+  "version": "2.1.7",
+  "description": "Discube Wrapper For Discube API",
   "main": "index.js",
   "dependencies": {
-    "node-fetch": "^2.6.1",
-    "npm-cli-login": "^1.0.0"
+    "node-fetch": "^2.6.1"
   },
   "devDependencies": {},
   "scripts": {
@@ -18,7 +17,7 @@
   "keywords": [
     "api",
     "discube",
-    "WrapperWrapper"
+    "Wrapper"
   ],
   "author": "pratikdev69",
   "license": "ISC",
